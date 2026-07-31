@@ -1,7 +1,8 @@
 # OverTheWire Bandit Write-ups
 
 
-                                       <img width="355" height="135" alt="image" src="https://github.com/user-attachments/assets/c0c2098e-81ec-46c6-9ea1-870215b199ed" />
+
+<img width="355" height="135" alt="image" src="https://github.com/user-attachments/assets/c0c2098e-81ec-46c6-9ea1-870215b199ed" />
 
 
 
