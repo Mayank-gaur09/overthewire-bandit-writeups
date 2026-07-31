@@ -12,3 +12,7 @@ There are 34 levels in total.
 
 
 *Passwords will not be shown*
+
+
+
+- The first 11 levels are showcased in [0 to 11 Levels](./levels-0-to-11)
